@@ -1,4 +1,4 @@
-*QRLJacking* - A New Social Engineering Attack Vector
+*QRLJacking* - A New Social Engineering Attack Vector An Amazing Jack Project
 ====================
 ![](https://github.com/OWASP/QRLJacking/blob/master/blob/images/QRLJacking.JPG?raw=true)
 
